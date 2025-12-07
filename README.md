@@ -7,4 +7,4 @@ i like building backends, data pipelines, and infra that keeps things running (m
 💼 linkedin: https://www.linkedin.com/in/da-yun-chung/  
 📫 dychung@uwaterloo.ca  
 
-> thanks for stopping by — feel free to say hi or lurk my repos 👀
+> thanks for stopping by :D
