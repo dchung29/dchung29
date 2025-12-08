@@ -1,4 +1,4 @@
-### hi, i’m da yun 👋
+### <img src="./bubu-write-bubu-study.gif" alt="bubu writing" width="40" />&nbsp;hi, i’m da yun
 a systems design engineering student @ uWaterloo.  
 i like building backends, data pipelines, and infra that keeps things running (mostly) not-on-fire c:
 
