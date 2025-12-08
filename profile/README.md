@@ -1,4 +1,11 @@
-### <img src="./bubu-write-bubu-study.gif" alt="bubu writing" width="40" />&nbsp;hi, i’m da yun
+<p>
+  <img src="./bubu-write-bubu-study.gif" alt="bubu writing" width="30" />
+  <strong>Hi, i’m da yun</strong>
+</p>
+
+a systems design engineering student @ uWaterloo.  
+i like building backends, data pipelines, and infra that keeps things running (mostly) not-on-fire c:
+
 a systems design engineering student @ uWaterloo.  
 i like building backends, data pipelines, and infra that keeps things running (mostly) not-on-fire c:
 
