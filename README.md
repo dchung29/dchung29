@@ -4,7 +4,7 @@ i like building backends, data pipelines, and infra that keeps things running (m
 
 `go` · `python` · `java` · `graphql` · `postgres` · `kafka` · `kubernetes` · `aws`
 
-💼 linkedin: https://www.linkedin.com/in/da-yun-chung/  
+💼 linkedin: https://www.linkedin.com/in/dayun-chung/  
 📫 email: dychung@uwaterloo.ca  
 👩🏻‍💻 lil website: https://dchung29.github.io/personal_web/
 
